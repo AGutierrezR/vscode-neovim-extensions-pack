@@ -1,15 +1,32 @@
 {
   "name": "vscode-neovim-pack",
   "displayName": "VSCode Neovim Pack",
-  "description": "",
+  "description": "Extension pack to configure Neovim in VSCod",
+  "publisher": "agutierrezr",
+  "author": {
+    "name": "Andrés Gutiérrez"
+  },
   "version": "0.0.1",
+  "icon": "img/vscode_neovim.jpg",
   "engines": {
     "vscode": "^1.95.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AGutierrezR/vscode-neovim-extensions-pack"
+  },
   "categories": [
-    "Extension Packs"
+    "Extension Packs",
+    "Neovim",
+    "Vim"
   ],
-  "extensionPack": [ 
+  "keywords": [
+    "neovim",
+    "vim",
+    "vi",
+    "pack"
+  ],
+  "extensionPack": [
     "asvetliakov.vscode-neovim",
     "tobias-z.vscode-harpoon",
     "alefragnani.bookmarks",
