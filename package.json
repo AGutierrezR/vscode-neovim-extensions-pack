@@ -1,0 +1,20 @@
+{
+  "name": "vscode-neovim-pack",
+  "displayName": "VSCode Neovim Pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "asvetliakov.vscode-neovim",
+    "tobias-z.vscode-harpoon",
+    "alefragnani.bookmarks",
+    "bodil.file-browser",
+    "catppuccin.catppuccin-vsc",
+    "catppuccin.catppuccin-vsc-icons"
+  ]
+}
