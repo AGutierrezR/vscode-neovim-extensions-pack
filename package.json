@@ -6,7 +6,7 @@
   "author": {
     "name": "Andrés Gutiérrez"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "img/vscode_neovim.jpg",
   "engines": {
     "vscode": "^1.95.0"

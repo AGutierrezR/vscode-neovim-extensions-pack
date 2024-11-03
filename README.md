@@ -1,5 +1,12 @@
 # VSCode + Neovim (Pack)
 
+<strong>Table of content</strong>
+
+- [VSCode + Neovim (Pack)](#vscode--neovim-pack)
+  - [Configuration Neovim (Lua)](#configuration-neovim-lua)
+    - [If you use the recommended respository:](#if-you-use-the-recommended-respository)
+  - [Configuration VSCode](#configuration-vscode)
+
 Collection of basic extension to get started with Neovim in VSCode. The purpose of this extension is to enhance navigation in Neovim by leveraging VSCode extensions.
 
 It is recommended to use the configuration in this [repository](https://github.com/AGutierrezR/VSCode-NeoVim), as it includes specific settings for these extensions and adds a list of Neovim plugins to enhance your experience:
@@ -14,7 +21,7 @@ This initial configuration also serves as a great starting point for getting int
 
 ## Configuration Neovim (Lua)
 
-The Neovim configuration on the system can be found at the following path:
+The Neovim configuration on the system can be found and configurate at the following path:
 
 - MacOS & Linux: `~/.config/nvim/`
 - Windows: `~/AppData\Local\nvim`
